@@ -1,7 +1,8 @@
 # Mohirfest_praktikum
-💡 Raqamli oromgohda qanday bilimlarni egallash mumkin? Sizdan hech qanday boshlang'ich ko'nikma talab qilinmaydi va o'qish mutlaqo bepul.<br>
+💡 Raqamli oromgohda qanday bilimlarni egallash mumkin?<br>
+Sizdan hech qanday boshlang'ich ko'nikma talab qilinmaydi va o'qish mutlaqo bepul.<br>
 
-Qatnashuvchilariga qulaylik yaratish maqsadida o'quv jarayoni yosh bo'yicha 2 yo'nalishga ajratilgan.<br>
+⚡️ Qatnashuvchilariga qulaylik yaratish maqsadida o'quv jarayoni yosh bo'yicha 2 yo'nalishga ajratilgan.<br>
 
 1-yo’nalish: Maktab o’quvchilari uchun<br>
 
